@@ -6,9 +6,9 @@ HapticHat is a obstacle avoidance aid that buzzes and vibrates when you're near 
 
 ## Hardware
 
-- Old basball cap
-- 2 x [Adafruit Trinket M0](https://www.adafruit.com/product/3500)
-- 2x 500mAh Lipo battery
+- 1x Old basball cap
+- 1x [Adafruit Trinket M0](https://www.adafruit.com/product/3500)
+- 1x 500mAh Lipo battery
 - 1x [Active tone generator](https://www.sparkfun.com/products/8463)
 - 1x [Vibration motor](https://www.sparkfun.com/products/11008)
 - Misc wires or conductive thread
