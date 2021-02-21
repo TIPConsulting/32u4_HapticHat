@@ -34,4 +34,4 @@ The primary application is for blind users to help navigate unfamiliar places.  
   
 2 - Upload the code from the repository onto the board and make sure it works.  Point the distance sensor at various objects around you.  The beeper frequncy should change based on the distance and the vibrator will turn on when you get close.  If those features don't work, then revisit the diagram and make sure you uploaded the code properly.  You may also need to double check your power source.
 
-3 - Now that we know it all works, its time to moint!
+3 - Now that we know all the parts work, it's time to moint!
