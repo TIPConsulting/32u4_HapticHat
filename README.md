@@ -56,3 +56,5 @@ We will need 3 total
 3.E - As a final step, make sure all the power points are secured and any loose thread is trimmed - we don't want our fancy hat to catch fire!
 
 <img src="https://raw.githubusercontent.com/TIPConsulting/32u4_HapticHat/main/Diagrams/HatDone1.JPG" alt="Prototype" width="400px"> <img src="https://raw.githubusercontent.com/TIPConsulting/32u4_HapticHat/main/Diagrams/HatDone2.JPG" alt="Prototype" width="400px">
+
+4 - Enjoy your new hat! [Here's a demo](https://github.com/TIPConsulting/32u4_HapticHat/discussions/1)
