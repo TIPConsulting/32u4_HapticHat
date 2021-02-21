@@ -1,4 +1,4 @@
-# HapticHat
+# Haptic Hat
 
 HapticHat is an obstacle avoidance aid that buzzes and vibrates when you're near objects.  It useful for those who are visually impaired, drunk, or especially uncoordinated.
 
