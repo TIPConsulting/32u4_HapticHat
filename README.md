@@ -1,6 +1,6 @@
 # HapticHat
 
-HapticHat is a obstacle avoidance aid that buzzes and vibrates when you're near objects.  It useful for those who are visually impaired, drunk, or especially uncoordinated.
+HapticHat is an obstacle avoidance aid that buzzes and vibrates when you're near objects.  It useful for those who are visually impaired, drunk, or especially uncoordinated.
 
 ![Hat Diagram](https://raw.githubusercontent.com/TIPConsulting/TrinketM0_HapticHat/main/Diagrams/HatDiagram.jpg)
 
